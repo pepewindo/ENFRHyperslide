@@ -1,0 +1,110 @@
+ENFRHyperSlide:
+  main:
+      key0_0:
+        swipeType: EIGHT_WAY
+        topLeft: { text: à }
+        bottomRight: {text: au}
+      key0_2:
+        top: {text: ê}
+        topLeft: {text: è}
+        bottomRight: {text: er}
+      key0_3:
+        swipeType: FOUR_WAY_CROSS
+        bottom: {text: qu}
+        right: {text: q}
+      key0_4:
+        swipeType: EIGHT_WAY
+        left: {remove: true}
+        right: {text: y}
+        bottom: {text: p}
+        bottomLeft: {text: pp}
+        bottomRight: {text: ph}
+      key0_5:
+        swipeType: FOUR_WAY_CROSS
+        left: {text: z}
+      key1_0:
+        swipeType: EIGHT_WAY
+        topLeft: { text: ï }
+        topRight: {text: in}
+      key1_2:
+        top: {text: û}
+        topLeft: {text: un}
+        left: {text: ui}
+      key1_3:
+        swipeType: EIGHT_WAY
+        top: {remove: true}
+        left: {text: "..."}
+        right: {text: v}
+        bottom: {text: ","}
+        bottomRight: {text: ","}
+      key1_4:
+        swipeType: EIGHT_WAY
+        top: {text: f}
+        topLeft: {text: ff}
+        left: {text: x}
+        right: {text: g}
+        bottom: {text: k}
+      key1_5:
+        swipeType: FOUR_WAY_CROSS
+        top: {text: j}
+        bottom: {text: w}
+        left: {text: b}
+      key2_3:
+        swipeType: FOUR_WAY_CROSS
+        top: {text: ":"}
+        right: {text: "."}
+      
+  shifted:
+      key0_0:
+        swipeType: EIGHT_WAY
+        topLeft: { text: À}
+        bottomRight: {text: Au}
+      key0_2:
+        top: {text: Ê}
+        topLeft: {text: È}
+        bottomRight: {text: Er}
+      key0_3:
+        swipeType: FOUR_WAY_CROSS
+        bottom: {text: Qu}
+        right: {text: Q}
+      key0_4:
+        swipeType: EIGHT_WAY
+        left: {remove: true}
+        right: {text: Y}
+        bottom: {text: P}
+      key0_5:
+        swipeType: FOUR_WAY_CROSS
+        left: {text: Z}
+      key1_0:
+        swipeType: EIGHT_WAY
+        topLeft: { text: Ï }
+        topRight: {text: In}
+      key1_2:
+        top: {text: Û}
+        topLeft: {text: Un}
+        left: {text: Ui}
+      key1_3:
+        top: {remove: true}
+        left: {text: "..."}
+        right: {text: "V"}
+        bottom: {text: ","}
+        bottomRight: {text: ","}
+      key1_4:
+        swipeType: EIGHT_WAY
+        top: {text: F}
+        left: {text: X}
+        right: {text: G}
+        bottom: {text: K}
+      key1_5:
+        swipeType: FOUR_WAY_CROSS
+        top: {text: J}
+        bottom: {text: W}
+        left: {text: B}
+      key2_3:
+        swipeType: FOUR_WAY_CROSS
+        top: {text: ":"}
+        right: {text: "."}
+  numeric:
+       key2_1:
+         right: {text: "."}
+

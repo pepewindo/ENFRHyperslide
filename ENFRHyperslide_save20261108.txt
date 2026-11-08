@@ -1,0 +1,70 @@
+
+
+ENFRHyperSlide:
+  main:
+    key0_0:
+      swipeType: EIGHT_WAY
+      topLeft: { text: à }
+      bottomRight: {text: au}
+    key0_2:
+      top: {text: ê}
+      topLeft: {text: è}
+      bottomRight: {text: er}
+    key0_3:
+      swipeType: EIGHT_WAY
+      bottomLeft: {text: pp}
+      bottomRight: {text: ph}
+    key0_4:
+      bottom: {text: st}
+    key1_0:
+      swipeType: EIGHT_WAY
+      topLeft: { text: ï }
+      topRight: {text: in}
+    key1_2:
+      right: {text: "."}
+      top: {text: û}
+      topLeft: {text: un}
+      left: {text: ui}
+    key1_3:
+      left: {text: "..."}
+      right: {text: ","}
+      bottomRight: {text: ","}
+    key1_4:
+       swipeType: EIGHT_WAY
+       top: {text: g}
+       topLeft: {text: gn}
+    key2_3:
+      swipeType: EIGHT_WAY
+      topLeft: {text: ff}
+      topRight: {text: ll}
+     
+  shifted:
+    key0_0:
+      swipeType: EIGHT_WAY
+      topLeft: { text: À}
+      bottomRight: {text: Au}
+    key0_2:
+      top: {text: Ê}
+      topLeft: {text: È}
+      bottomRight: {text: Er}
+    key1_0:
+      swipeType: EIGHT_WAY
+      topLeft: { text: Ï }
+      topRight: {text: In}
+    key1_2:
+      right: {text: "."}
+      top: {text: Û}
+      topLeft: {text: Un}
+      left: {text: Ui}
+    key1_3:
+      left: {text: "..."}
+      right: {text: ","}
+    key1_4:
+       swipeType: EIGHT_WAY
+       top: {text: G}
+       topLeft: {text: Gn}
+
+  numeric:
+     key2_1:
+       right: {text: "."}
+
